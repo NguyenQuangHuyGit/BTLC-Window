@@ -1,0 +1,22 @@
+D:\GD2 KI2\Window\btlWinform\btlWinform\bin\Debug\btlWinform.exe.config
+D:\GD2 KI2\Window\btlWinform\btlWinform\bin\Debug\btlWinform.exe
+D:\GD2 KI2\Window\btlWinform\btlWinform\bin\Debug\btlWinform.pdb
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.csproj.AssemblyReference.cache
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.csproj.SuggestedBindingRedirects.cache
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.Form1.resources
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.Properties.Resources.resources
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.csproj.GenerateResource.cache
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.csproj.CoreCompileInputs.cache
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.exe
+D:\GD2 KI2\Window\btlWinform\btlWinform\obj\Debug\btlWinform.pdb
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\bin\Debug\btlWinform.exe.config
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\bin\Debug\btlWinform.exe
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\bin\Debug\btlWinform.pdb
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.csproj.AssemblyReference.cache
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.csproj.SuggestedBindingRedirects.cache
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.Form1.resources
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.Properties.Resources.resources
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.csproj.GenerateResource.cache
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.csproj.CoreCompileInputs.cache
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.exe
+D:\GD2 KI2\Window\NguyễnQuangHuy _2051063734_BTLWinForm\btlWinform\obj\Debug\btlWinform.pdb
